@@ -1,2 +1,2 @@
 # GrowerMedia
-Grower Media Website, modern design, responsive design
+Grower Media Website with modern and responsive design. Work in progress...
